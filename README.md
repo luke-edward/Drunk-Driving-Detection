@@ -1,6 +1,4 @@
-# TensorFlow Tutorial 2: Image Classification Walk-through
+# Drunk Driving Detection
 
-See the documents "TensorFlow_Tut_2_Classification_Walk-through" above (MS Word or PDF version)
+Based on eye redness, swolleness, etc. Using tensorflow machine learning
 
-Walk-through video:
-https://www.youtube.com/watch?v=oXpsAiSajE0
